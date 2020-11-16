@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'routewareapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_608f2204a89f41d6bb778154dbbe8362 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e64e4b3dbd1e436a8e865fcc2c5daea0 }}
         package: ${{env.DOTNET_ROOT}}/myapp 
