@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEU2EL/FXoUuLA5uaqO75swAAAAACAAAAAAAQZgAAAAEAACAAAAB8zvP9yW7b1hjIbxEnpnXt4wRJOAT5ynmAffgj5FjqqAAAAAAOgAAAAAIAACAAAAD0fT/F3H8MR/7DLrv+KmEjwqY73qI4+YLNtm3h4WcC/IAAAAAorCqvZhpjebDqbEBSx7bAm7toFHq5Sgrog9NLFmU0xdK6LKSGjclamSilxx4E6gYqhbYK+Z8tPHRZn3V6laa2NtI/dQ3aCTITeAgnpeFzW897WEuyY4wHNvZThxJCBZfEj6rmg3c4WkMGMYEn1DuOiu2lEKSp2dujU+WhnE7aZ0AAAAABbn4w6C097LiAfo56J9wnvVnK/DRV1W0mxdH0vFhS4JbRIB4P1fP7HSFosG/IBzwlzJsRxGyfp7j6vCjBA961</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-blu-209.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="CsvHelper.dll">
+      <publishTime>11/10/2020 15:44:18</publishTime>
+    </File>
+    <File Include="EPPlus.dll">
+      <publishTime>11/05/2020 13:59:50</publishTime>
+    </File>
+    <File Include="GeoCoordinate.NetCore.dll">
+      <publishTime>08/17/2016 21:57:42</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>05/20/2020 23:55:56</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.dll">
+      <publishTime>05/20/2020 23:56:46</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <publishTime>05/20/2020 23:57:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Json.dll">
+      <publishTime>05/20/2020 23:57:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>05/20/2020 23:56:24</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>05/20/2020 23:56:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>05/20/2020 23:57:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>05/20/2020 23:56:22</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.deps.json">
+      <publishTime>11/16/2020 11:17:02</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.dll">
+      <publishTime>11/16/2020 11:17:01</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.exe">
+      <publishTime>11/16/2020 11:17:01</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.pdb">
+      <publishTime>11/16/2020 11:17:01</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.runtimeconfig.json">
+      <publishTime>11/16/2020 11:17:02</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.Views.dll">
+      <publishTime>11/16/2020 11:17:02</publishTime>
+    </File>
+    <File Include="RouteWareCodeChallenge.Views.pdb">
+      <publishTime>11/16/2020 11:17:02</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll">
+      <publishTime>04/14/2020 22:47:48</publishTime>
+    </File>
+    <File Include="System.Text.Encoding.CodePages.dll">
+      <publishTime>04/14/2020 22:39:06</publishTime>
+    </File>
+    <File Include="System.Xml.XPath.XmlDocument.dll">
+      <publishTime>11/05/2016 04:57:34</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/16/2020 11:17:05</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap/bootstrap.min.css">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap/bootstrap.min.css.map">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/FONT-LICENSE">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.eot">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.otf">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.svg">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.ttf">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.woff">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/ICON-LICENSE">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/README.md">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>11/11/2020 15:39:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
