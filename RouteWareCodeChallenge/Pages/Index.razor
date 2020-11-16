@@ -192,7 +192,7 @@ else
     public async Task RefreshRecords(int currentPage)
     {
         //get correct selection
-        pageOfAddresses = AddressService.GetSelectionOfAddresses((curPage - 1) * pageSize, pageSize);
+        pageOfAddresses = AddressService.GetSelectionOfAddresses((currentPage - 1) * pageSize, pageSize);
         curPage = currentPage;
         this.StateHasChanged();
     }

@@ -23,7 +23,6 @@ C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\bin\Release\netcoreapp3.1\M
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
-C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Release\netcoreapp3.1\RouteWareCodeChallenge.csprojAssemblyReference.cache
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Release\netcoreapp3.1\RouteWareCodeChallenge.csproj.CoreCompileInputs.cache
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Release\netcoreapp3.1\RouteWareCodeChallenge.MvcApplicationPartsAssemblyInfo.cache
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Release\netcoreapp3.1\RouteWareCodeChallenge.RazorComponent.input.cache

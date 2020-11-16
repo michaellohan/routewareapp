@@ -49,7 +49,6 @@ C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Debug\netcoreapp3.1\Rou
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Debug\netcoreapp3.1\RouteWareCodeChallenge.pdb
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Debug\netcoreapp3.1\RouteWareCodeChallenge.genruntimeconfig.cache
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\bin\Debug\netcoreapp3.1\CsvHelper.dll
-C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Debug\netcoreapp3.1\RouteWareCodeChallenge.csprojAssemblyReference.cache
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Debug\netcoreapp3.1\RouteWareCodeChallenge.csproj.CoreCompileInputs.cache
 C:\GIT\RouteWareCodeChallenge\RouteWareCodeChallenge\obj\Debug\netcoreapp3.1\RouteWareCodeChallenge.MvcApplicationPartsAssemblyInfo.cache
