@@ -52,8 +52,8 @@ namespace RouteWareCodeChallenge.Data
             //setup file path
             addresses = new List<Address>();
             string fileName = "Data.csv";
-            string filePath = Path.Combine(Environment.CurrentDirectory, @"Resource\", fileName);
-
+            //string filePath = Path.Combine(Environment.CurrentDirectory, @"Resource\", fileName);
+            string filePath = Environment.GetEnvironmentVariable("HOME").ToString() + "\\site\\repository\\RouteWareCodeChallenge\\Resource\\Data.csv";
             using (var reader = new StreamReader(filePath))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
